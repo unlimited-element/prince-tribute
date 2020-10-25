@@ -1,0 +1,62 @@
+<html><head>
+	<style>
+		.smaller-image {
+		display: block;
+		margin: auto;
+		width: 400px;
+		border: 10px outset #990099;
+		border-radius: 50%;
+		}
+		body {
+			background-image: linear-gradient(to right, #ff99ff, #ffe6ff);
+		}
+		li {
+			border: 5px outset #990099;
+			border-radius: 20%;
+			padding: 20px 10px 20px 10px;
+			text-align: center;
+		}
+		h3 {
+			text-align: center;
+		}
+		@media (max-width: 400px)
+			img {
+				margin: 20px auto 20px auto;
+			}
+	</style>
+</head>
+
+<body id="main">
+	<div>
+		<h1 id="title" style="text-align: center;">Prince Rogers Nelson</h1>
+	</div>
+	<div id="img-div">
+		<img id="image" src="https://dev.creativeloafing.com/image/mediaserver/atlanta/2016-16/20160414_235019_1.jpg" class="smaller-image" alt="Photo of Prince at his final concert before his untimely passing">
+		<p id="img-caption" style="text-align: center;"> Prince performs at his final concert at Fox Theatre in Atlanta, GA for his Piano &amp; a Microphone Tour</p>
+		<p id="tribute-info">
+		</p><h2 id="headline" style="text-align: center;"><strong>The Legacy of a Symbol</strong></h2><p></p>
+		<ul>
+				<li>July 28, 1992 - Prince trademarks the male/female symbol he has been using on various album covers and promotional materials. He later re-designs the symbol and uses it as his name.</li><br>
+				<li>August 31, 1992 - Prince extends his contract with Warner Bros. in a deal reported as being worth $100 million, but worth far less in reality.
+						The Prince camp trumpets the deal as the biggest ever, eclipsing recent contracts signed by Michael Jackson and Madonna. The $100 million figure is quite a stretch though, as Prince must sell over 5 million copies of an album to get a $10 million advance for his next one. His last album, Diamonds &amp; Pearls, hit that mark, but most of his previous albums did not. To reach the $100 million mark, he would need to have six albums sell over 5 million.
+						The contract encourages Prince to dedicate efforts to each album, with singles, videos and tours to boost sales. But he wants to crank out a lot of material, which Warners is afraid will saturate the market. When then they restrict his output, Prince gets indignant, writing the word "slave" on his face during some performances, and in 1993 changing his name to an unpronounceable symbol in an effort to regain control of his music and image. When the contract expires in 2000, he goes back to using the name Prince.</li><br>
+				<li>October 13, 1992 - Prince releases an album with a symbol on the cover that later becomes his name. This isn't the first time a major act has issued an album with no lettering (Led Zeppelin had four symbols representing each band member on their fourth album), but for Prince, it signals a shift in identity, as the following year, he changes his name to the symbol. The album is generally referred to as either The Symbol Album or Love Symbol Album.</li><br>
+				<li>June 7, 1993 - On his 35th birthday, Prince changes his name to an unpronounceable symbol, making him, literally, an icon.
+						Prince signed his first record contract at age 18 in 1977 when he made a deal with Warner Bros. Records that gave him lots of creative freedom and ensured that he would produce his own material. The arrangement worked out well for both sides, with Warners funding his experimental whims and making loads of money in the process. In 1992, Prince extended the contract in a deal that paid him $10 million for every album selling over 5 million copies, as his previous effort, Diamonds &amp; Pearls, did. But while his label was looking for focused attention on every album in an effort to maximize revenue, Prince wanted to empty the vault, releasing lots of material. When Warners rejected this strategy, Prince made his beef very public, appearing with the word "Slave" scrawled across his face. Since the label owned the "Prince" output, he decided to change his name to something they couldn't control.</li><br>
+				<li>February 22, 1994 - Prince is granted the trademark on the symbol he has been using as his name.
+						The symbol, designed by a Minneapolis firm, is deemed unique enough to earn trademark status. It is described in the filing as "a stylized design of an ankh-like symbol." Prince controls its use for sound recordings, and later trademarks it for entertainment services, posters, publications, bumper stickers and stickers, clothing, sound recordings and videotapes featuring music and entertainment.</li><br>
+				<li>February 25, 1999 - Prince, who is now using an unpronounceable symbol for his moniker, sues nine websites to prevent unauthorized downloads. He takes another stand in 2007 when he sues other sites to remove images of him.</li><br>
+				<li>May 16, 2000 - With his Warner Bros. contract terminated, Prince starts using that name again. He changed it to an unpronounceable symbol in 1993 after a dispute with the label.</li><br>
+		</ul>
+
+		<h3>For a complete timeline of the legacy of Prince on <a id="tribute-link" href="https://calendar.songfacts.com/timeline/prince/" target="_blank">Songfacts.com Calendar</a></h3>.
+
+	</div>
+
+
+
+
+
+
+
+</body></html>
